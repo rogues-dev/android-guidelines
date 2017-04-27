@@ -1,0 +1,8 @@
+= Android Guidelines
+include::include.adoc[]
+
+List of guidelines that we use at https://github.com/rogues-dev[Rogue's Dev]
+when developing for the __Android__ platform.
+
+* link:project_guidelines.adoc[Project Guidelines]
+* link:code_guidelines.adoc[Code Guidelines]
