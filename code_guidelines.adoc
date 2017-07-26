@@ -585,7 +585,7 @@ With the exception of menu items, which should use a prefix.
 For example:
 
 |===
-| Element | Prefix
+| Element | Post/Prefix
 
 | `TextView`
 | `_text`
